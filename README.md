@@ -57,12 +57,17 @@ Cryption offers strong protection against:
     npm install
     ```
 
-4. **If your Node.js version is after 16**, run this:
+4. **In case of vulnerabilities run:**:
+    ```bash
+    npm audit fix --force
+    ```
+
+5. **If your Node.js version is after 16**, run this:
     ```bash
     set NODE_OPTIONS=--openssl-legacy-provider
     ```
 
-5. **Otherwise, run this directly**:
+6. **Otherwise, run this directly**:
     ```bash
     npm start
     ```
