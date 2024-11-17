@@ -44,7 +44,7 @@ Cryption offers strong protection against:
 
 1. **Clone the repository** (stable branch):
     ```bash
-    git clone -b master https://github.com/aathreya-sharma/cryptography-project-iiitdwd
+    git clone -b master https://github.com/aathreya-sharma/cryptography-project
     ```
 
 2. **Change Directory**:
