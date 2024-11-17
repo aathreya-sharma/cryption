@@ -29,9 +29,10 @@ Cryption offers strong protection against:
 - **Frontend**: React.js
 - **Encryption Logic**: AES (Advanced Encryption Standard) in JavaScript
 
-## **Usage**
+## **Vedio**
+https://github.com/user-attachments/assets/29211427-899e-4e94-983d-933cc2971624
 
-- **Encrypt and Decrypt Files**: Users can encrypt and decrypt files directly within the browser.
+
 
 ## **Prerequisites**
 
