@@ -6,7 +6,7 @@ const Header = (props) => {
 	return (
 		<Layout.Header className={headerCSS.header}>
 			<div className={headerCSS.brand}>
-				<h1>Cryptex</h1>
+				<h1>Cryption</h1>
 			</div>
 			<div className={headerCSS.github}>
 				<a href="https://github.com/aathreya-sharma/cryptography-project" target="_blank" rel="noopener noreferrer">
