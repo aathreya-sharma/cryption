@@ -75,4 +75,4 @@ https://github.com/user-attachments/assets/29211427-899e-4e94-983d-933cc2971624
 
 ## **Conclusion**
 
-**Cryption** provides a secure solution for browser-based file encryption, prioritizing data privacy and integrity with no dependency on cloud services. By offering an intuitive interface and essential features, Cryption empowers users to manage sensitive data confidently and securely.
+**Cryption** provides a secure solution for browser-based file encryption, prioritizing data privacy and integrity with no dependency on cloud services. By offering an intuitive interface and essential features, Cryption empowers users to manage sensitive data confidently and securely. We would like to thank our professor **Rajendra Hegde Sir** for his support during the project.
