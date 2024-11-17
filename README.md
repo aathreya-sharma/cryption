@@ -49,7 +49,7 @@ Cryption offers strong protection against:
 
 2. **Change Directory**:
     ```bash
-    cd cryptex
+    cd cryptography-project
     ```
 
 3. **Install Packages**:
