@@ -45,12 +45,12 @@ https://github.com/user-attachments/assets/29211427-899e-4e94-983d-933cc2971624
 
 1. **Clone the repository** (stable branch):
     ```bash
-    git clone -b main https://github.com/aathreya-sharma/cryptography-project
+    git clone -b main https://github.com/aathreya-sharma/cryption
     ```
 
 2. **Change Directory**:
     ```bash
-    cd cryptography-project
+    cd cryption
     ```
 
 3. **Install Packages**:
