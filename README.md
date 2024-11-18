@@ -9,7 +9,7 @@
 
 ## **Overview**
 
-**Cryption** is an open-source tool designed for AES encryption and decryption directly within the browser, eliminating the need to upload data to the cloud. By maintaining file integrity, Cryptex ensures that manipulation of files is impossible without the correct password.
+**Cryption** is an open-source tool designed for AES encryption and decryption directly within the browser, eliminating the need to upload data to the cloud. By maintaining file integrity, Cryption ensures that manipulation of files is impossible without the correct password.
 
 ## **Features**
 
